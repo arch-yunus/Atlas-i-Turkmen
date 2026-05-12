@@ -106,7 +106,35 @@ Türkmenler, "Atasözü – aklın gözü" diyerek, binlerce yıllık tecrübeyi
 
 ## 🎶 Kerkük Horyatları: Yanık Bir Feryat
 
-Irak Türkmeneli'nin, yüzyıllardır süregelen acıyı, hasreti, direnişi ve vatan sevgisini sadece yedi heceye sığdırdığı o cinaslı haykırışlar, Türkmen ruhunun Mezopotamya'daki mührüdür. Horyat, Kerkük'ün kalesinden yükselen bir özgürlük beyanıdır. Her bir "Baba Gürgür" tınısında, bin yıllık bir aidiyetin yankısı vardır.
+Irak Türkmeneli'nin, yüzyıllardır süregelen acıyı, hasreti, direnişi ve vatan sevgisini sadece yedi heceye sığdırdığı o cinaslı haykırışlar, Türkmen ruhunun Mezopotamya'daki mührüdür. Horyat (Hoyrat), Kerkük'ün kalesinden yükselen bir özgürlük beyanıdır. Her bir "Baba Gürgür" tınısında, bin yıllık bir aidiyetin yankısı vardır.
+
+### 🧩 Cinas Sanatı ve Ontolojik Derinlik
+Horyatın kalbi **"Cinas"** (eş sesli kelimelerle yapılan anlam sanatı) ile atar. Bu teknik, sadece bir kelime oyunu değil, Türkmen zekasının ve dil esnekliğinin bir göstergesidir. Genellikle "Kesik Mani" formunda olan horyatlarda ilk mısra (ayak), kafiye yapısını kurar ve dinleyiciyi zihinsel bir yolculuğa davet eder.
+
+#### 🖋️ Kesik Mani (Horyat) Örnekleri ve Şerhleri
+
+**1. Acının Evrenselliği: "Yara Sızlar"**
+> *Yara sızlar,*
+> *Ok değmiş, yara sızlar;*
+> *Yaralının hâlinden,*
+> *Ne bilsin yarasızlar.*
+- **Şerh:** Buradaki cinas "yara" (vücuttaki fiziksel hasar) ile "yarasızlar" (yara sahibi olmayanlar) arasında kurulmuştur. Şair, acının ancak o acıyı çeken tarafından idrak edilebileceğini, dışarıdakilerin bu ontolojik sızıyı anlayamayacağını vurgular.
+
+**2. Vatan ve Aidiyet: "O Yan Kara"**
+> *O yan kara,*
+> *Bu yan ak, o yan kara;*
+> *Türkmen’e hor bakanın,*
+> *Gözlerin oy Ankara.*
+- **Şerh:** İlk mısralarda "kara" (renk) ve "kararmak" (karamsarlık) üzerine kurulan yapı, son mısrada bir toplumsal haykırışa dönüşür. "Ankara" üzerinden yapılan hitap, aslında bir merkez-çevre ilişkisini ve adalet arayışını simgeler.
+
+**3. Hayatın Dualitesi: "Gül En Az"**
+> *Gül en az,*
+> *Bülbül eyler güle naz;*
+> *İndim o dost bahçesine,*
+> *Ağlayan çok, gülen az.*
+- **Şerh:** "Gül" (çiçek), "güle naz" (nazlanmak) ve "gülen az" (gülümseyenlerin azlığı) arasındaki tınısal benzerlik, hayatın hüzün ve neşe arasındaki dengesizliğini lirik bir dille özetler.
+
+Horyat, Kerkük sokaklarında sadece bir şarkı değil; haksızlığa karşı bir "feryat", sevgiliye bir "hasret" ve tarihe düşülmüş bir "not"tur.
 
 ---
 

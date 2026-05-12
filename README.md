@@ -67,7 +67,13 @@ Mahtumkulu'nun yeğeni **Zelili**, toplumsal adaletsizliğe ve voksulluğa karş
 > *Toprak için kanın döküp yerlere,*
 > *Namusunu arş-ı âlâya bağlaya."*
 
-Bu iki şahsiyet, Türkmen şiirinin "epik" ve "sosyal" damarını temsil eder.
+### 🖋️ Mämmetveli Kemine: Hicvin ve Hakikatin Sesi
+Türkmen edebiyatının en keskin zekalı şairi olan Kemine, "az" ve "mütevazı" anlamına gelen mahlasının aksine, toplumsal adaletsizliğe karşı devasa bir hiciv kalesi inşa etmiştir. Yoksul halkın dertlerini mizahla harmanlayarak dile getiren şair, ikiyüzlülüğe ve haksızlığa karşı kalemini bir kılıç gibi kullanmıştır.
+
+> *"Dostlar! Bu gülünç bir çağ, kötülük insanın yanında yürür,*
+> *Bey dünyada bir boğadır, fakir adam beyin boyunduruğundadır."*
+
+Bu şahsiyetler, Türkmen şiirinin "epik", "lirik" ve "sosyal" damarlarını temsil ederek, halkın vicdanını ve estetik algısını asırlar boyunca diri tutmuşlardır.
 
 ---
 
@@ -81,6 +87,18 @@ Efsanelerimizin, töremizin ve toplumsal ahlakımızın manevi babası, ozanlar�
 - **"Dağ ne kadar yüce olsa da yol üzerinden aşar."** (Azim ve kararlılığın, aşılmaz sanılan engelleri aşacağının müjdesi.)
 - **"Gelimli gidimli dünya, son ucu ölümlü dünya."** (Varlığın geçiciliği ve fani dünya üzerine temel ontolojik vurgu.)
 - **"Anadan doğmasa bir yiğit, bey olup el tutamaz."** (Liderliğin ve asaletin fıtri ve toplumsal kökenlerine dair bir hikmet.)
+
+---
+
+## 🗣️ Atalar Sözü: Bozkırın Ontolojik Rehberi
+
+Türkmenler, "Atasözü – aklın gözü" diyerek, binlerce yıllık tecrübeyi kristalize edilmiş hikmetlere dönüştürmüşlerdir. Bu sözler, bozkır hayatının anayasası hükmündedir:
+
+- **"Ak gün ağartır, kara gün karartır."** (Umut ve kederin insan üzerindeki ontolojik etkisi.)
+- **"Dağı taşı yel bozar, dostların arasını söz bozar."** (Sözün yıkıcı gücü ve sosyal dokunun hassasiyeti.)
+- **"Damla damla göl olur, hiç damlamazsa çöl olur."** (Sürekliliğin ve sabrın medeniyet inşa eden gücü.)
+- **"Sabah kalk atanı gör, atandan sonra atını."** (Türkmen hiyerarşisinde sadakat ve aidiyetin sıralaması.)
+- **"Yiğide savaş bayramdır."** (Kahramanlık kültünün ve mücadele azminin hayat tarzına dönüşmesi.)
 
 ---
 
@@ -133,6 +151,7 @@ Türkmen dilinin estetik zirveleri, sözlü geleneğin yazılı hafızası ve le
 - [Geleneksel Takılar ve Gümüş İşlemeciliği](Sanat-Zanaat/Geleneksel_Taki_ve_Gumus_Islemeciligi.md)
 - [Bozkırın Kanatları: Ahalteke Atı ve At Kültürü](Sanat-Zanaat/Ahalteke_Ati_ve_At_Kulturu.md)
 - [Türkmen Mimari Mirası ve Tuğla Sanatı](Sanat-Zanaat/Mimari_Miras_ve_Brick_Sanati.md)
+- **Tamga ve Ontoloji:** Boy işaretlerinin (Tekke, Yomut vb.) kozmolojik ve mülkiyet odaklı anlamları üzerine derin okumalar.
 
 ### 🗺️ [Tarih ve Sosyoloji](Tarih-Sosyoloji/)
 Oğuzların göç yolları, aşiret yapıları ve demografik atlası burada çizilmektedir.

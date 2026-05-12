@@ -34,14 +34,40 @@ Türkmen boylarını (Teke, Yomut, Ersarı, Salur vb.) tek bir bayrak ve tek bir
 > *Bir sofrada hazır kılınsa aşlar,*
 > *Yaver gider şansı yüce Türkmen'in."*
 
+Onun vatanına ve milletine olan sarsılmaz aidiyetini şu dizeler en gür şekilde haykırır:
+
+> *"Ceyhun ile Hazar denizi arası,*
+> *Çöl üstünden eser yeli Türkmen’in;*
+> *Gül goncası, kara gözüm karası,*
+> *Kara dağdan iner seli Türkmen’in."*
+
 ### 🖋️ Molla Nefes: Aşkın Sultanı
 Gönül kapılarını beşeri ve ilahi aşkın anahtarıyla açan Molla Nefes, Türkmen lirizminin zirvesini temsil eder. "Aşk mülkünün sultanı" olarak anılan şair, klasik halk hikayelerini (Zühre-Tahir gibi) yüksek bir edebi zevkle yeniden işleyerek, Türkmen dilinin duygusal derinliğini ve sanatsal esnekliğini tüm dünyaya kanıtlamıştır. Onun dizeleri, bozkırın ortasında yükselen bir gül bahçesi gibidir.
+
+> *"Işka düşüp hayran gezip yörürsem,*
+> *Zühre’m diyip canım kurban eylersem;*
+> *Bağ içinde taze güller derersem,*
+> *Bülbül olup şol gülşende ötsem ben."*
 
 ### 🖋️ Seyyid Nesimi: Hakikat Yolu
 Bozkırın ortasında ve şehirlerin kalbinde "insan-ı kamil" arayışının en gür ve en korkusuz sesi olan Nesimi, Türkmen irfanının sarsılmaz direğidir. "Vahdet-i Vücud" felsefesini Oğuz lehçesiyle en radikal ve en estetik biçimde dile getiren şair, insanın evrensel değerini ve tanrısal özünü savunarak, Türkmen düşünce dünyasına metafizik bir boyut kazandırmıştır.
 
 ### 🖋️ Zelili ve Seydi: Direnişin Epik Sesi
-Mahtumkulu'nun yeğeni **Zelili**, toplumsal adaletsizliğe ve yoksulluğa karşı kalemiyle savaşırken; **Seyyitnazar Seydi**, bir elinde kılıç diğer elinde kalemle vatan savunmasının destanını yazmıştır. Bu iki şahsiyet, Türkmen şiirinin "epik" ve "sosyal" damarını temsil eder.
+Mahtumkulu'nun yeğeni **Zelili**, toplumsal adaletsizliğe ve voksulluğa karşı kalemiyle savaşırken; vatanından ayrı düştüğünde hissettiği o derin sızıyı şöyle dile getirmiştir:
+
+> *"Gurbet yerde her gün ağlar gezerim,*
+> *Vatanım seni, vatanım seni!*
+> *Eridi yüreğim, bitti takatim,*
+> *Ararım seni, vatanım seni!"*
+
+**Seyyitnazar Seydi** ise, bir elinde kılıç diğer elinde kalemle vatan savunmasının destanını yazmıştır. Onun mertliği ve kahramanlık ruhu şu mısralarda yankılanır:
+
+> *"Yiğit odur, vatan için can vere,*
+> *Mertlik ile düşman yolun bağlaya;*
+> *Toprak için kanın döküp yerlere,*
+> *Namusunu arş-ı âlâya bağlaya."*
+
+Bu iki şahsiyet, Türkmen şiirinin "epik" ve "sosyal" damarını temsil eder.
 
 ---
 
@@ -53,6 +79,8 @@ Efsanelerimizin, töremizin ve toplumsal ahlakımızın manevi babası, ozanlar�
 - **"Gönül yüksekte olmazsa, menzil yakına gelmez."** (Bir ülküye sahip olmanın ve büyük hedefler peşinde koşmanın ehemmiyeti.)
 - **"Eski pamuk bez olmaz, eski düşman dost olmaz."** (Tarihsel tecrübenin ve toplumsal hafızanın keskin bir özeti.)
 - **"Dağ ne kadar yüce olsa da yol üzerinden aşar."** (Azim ve kararlılığın, aşılmaz sanılan engelleri aşacağının müjdesi.)
+- **"Gelimli gidimli dünya, son ucu ölümlü dünya."** (Varlığın geçiciliği ve fani dünya üzerine temel ontolojik vurgu.)
+- **"Anadan doğmasa bir yiğit, bey olup el tutamaz."** (Liderliğin ve asaletin fıtri ve toplumsal kökenlerine dair bir hikmet.)
 
 ---
 

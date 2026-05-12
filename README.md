@@ -189,21 +189,24 @@ Türkmen mutfağı, sadece bir beslenme biçimi değil, binlerce yıllık göç 
 
 Külliyat, Türkmen kimliğini oluşturan temel sütunlar üzerine, akademik bir titizlik ve estetik bir kaygı ile inşa edilmiştir:
 
-### 🖋️ [Edebiyat ve Dil Bilimi](Edebiyat-Dil/)
-Türkmen dilinin estetik zirveleri, sözlü geleneğin yazılı hafızası ve lehçelerin etimolojik derinliği burada korunmaktadır.
-- [Mahtumkulu Firaki: Türkmen Ruhu'nun Ontolojik Mimarı](Edebiyat-Dil/Mahtumkulu_Firaki.md)
-- [Klasik Türkmen Şiiri Antolojisi: Molla Nefes'ten Zelili'ye](Edebiyat-Dil/Klasik_Turkmen_Siiri_Antolojisi.md)
-- [Folklor, Efsaneler ve Sözlü Gelenek](Edebiyat-Dil/Folklor_ve_Sozlu_Gelenek.md)
+### 📚 [Edebiyat ve Dil](Edebiyat-Dil/)
+Türkmen dilinin ontolojik köklerinden Mahtumkulu'nun hikmetlerine kadar uzanan geniş bir arşiv.
+- [Mahtumkulu Firaki: Birlik ve Dirlik Şiirleri](Edebiyat-Dil/Mahtumkulu_Firaki.md)
+- [Klasik Türkmen Şiiri Antolojisi: Nesimi'den Zelili'ye](Edebiyat-Dil/Klasik_Turkmen_Siiri_Antolojisi.md)
+- [Folklor ve Sözlü Gelenek: Destanlar ve Efsaneler](Edebiyat-Dil/Folklor_ve_Sozlu_Gelenek.md)
+- [Türkmen Dilinin Etimolojik Kökleri ve Tarihi Gelişimi](Edebiyat-Dil/Turkmen_Dilinin_Etimolojik_Kokleri.md)
 
-### 🎶 [Müzik ve Ses Arşivi](Muzik-Folklor/)
-İki telin (Dutar) felsefi derinliği, horyatların yanık tınısı ve makamların tınısal hafızası bu bölümde yankılanmaktadır.
-- [Dutar ve Bahşı Geleneği: Bozkırın Tınısal Hafızası](Muzik-Folklor/Dutar_ve_Bahsi_Gelenegi.md)
+### 🎵 [Müzik ve Folklor](Muzik-Folklor/)
+Bozkırın sesini dünyaya duyuran Dutar tınıları ve makam geleneği.
+- [Dutar ve Bahşı Geleneği: Bozkırın Ozanları](Muzik-Folklor/Dutar_ve_Bahsi_Gelenegi.md)
 - [Kerkük Makam Ekolü: Baği, Mukalif ve Nevruz](Muzik-Folklor/Kerkuk_Makam_Ekolu.md)
+- [Halk Çalgıları ve Tuydük Felsefesi: Kamıştan Yükselen Ses](Muzik-Folklor/Halk_Calgilari_ve_Tuydük_Felsefesi.md)
 
 ### 🎨 [Maddi Kültür ve Sanat](Sanat-Zanaat/)
 İlmek ilmek işlenen tarih, taşa kazınan mühürler ve bozkırın altın atları bu sütunun merkezindedir.
 - [Türkmen Halısı ve Tamga Sembolizmi: Dokunmuş Tarih](Sanat-Zanaat/Hali_ve_Tamga_Sembolizmi.md)
 - [Geleneksel Takılar ve Gümüş İşlemeciliği](Sanat-Zanaat/Geleneksel_Taki_ve_Gumus_Islemeciligi.md)
+- [Türkmen Kesde Sanatı ve Nakışları: Motiflerin Dili](Sanat-Zanaat/Turkmen_Kesde_Sanati_ve_Nakislari.md)
 - [Bozkırın Kanatları: Ahalteke Atı ve At Kültürü](Sanat-Zanaat/Ahalteke_Ati_ve_At_Kulturu.md)
 - [Türkmen Mimari Mirası ve Tuğla Sanatı](Sanat-Zanaat/Mimari_Miras_ve_Brick_Sanati.md)
 - **Tamga ve Ontoloji:** Boy işaretlerinin (Tekke, Yomut vb.) kozmolojik ve mülkiyet odaklı anlamları üzerine derin okumalar.
@@ -214,6 +217,7 @@ Oğuzların göç yolları, aşiret yapıları ve demografik atlası burada çiz
 - [Türkmen Mutfak Kültürü ve Gastronomik Miras](Tarih-Sosyoloji/Turkmen_Mutfak_Kulturu.md)
 - [Aşiret Yapıları ve Sosyolojik Tabakalaşma](Tarih-Sosyoloji/Asiret_Yapilari.md)
 - [Biyografik Hafıza: Türkmen Tarihine Yön Veren Şahsiyetler](Tarih-Sosyoloji/Biyografik_Hafiza.md)
+- [Gökdepe Direnişi ve Milli Hafıza: Bağımsızlık Ruhu](Tarih-Sosyoloji/Gokdepe_Direnisi_ve_Milli_Hafiza.md)
 
 ---
 

@@ -6,24 +6,59 @@
 
 **Atlas-i Turkmen**, Mezopotamya'nın bereketli hilalinden Horasan'ın mistik bozkırlarına, Türkmensahra'nın rüzgarlı düzlüklerinden Kerkük'ün kadim kalesine kadar uzanan geniş bir sahada, Türkmen (Oğuz) varlığının ontolojik, kültürel ve tarihsel kodlarını korumayı amaçlayan bir **Dijital Medeniyet Arşivi**'dir.
 
+Bu platform; sadece bir veri bankası değil, Türkmen ruhunun (Mahtumkulu'nun tabiriyle "Gönüllerin birliği") modern dünyada yankılanan sesidir. Biz, her bir ilmekte bir tarih, her bir telde bir felsefe ve her bir sözde bir vatan bulanların hafızasıyız.
+
 ---
 
-## 🌍 Tarihsel Kronotoplar ve Coğrafi Odaklar
+## ✨ Ruhun Tınısı: Türkmen Hikmetleri ve Şiir Arşivi
 
-Türkmen varlığı, statik bir sınırın ötesinde, dinamik bir coğrafi yayılımı temsil eder:
-- **Horasan & Türkmenistan:** Medeniyetin ana bataryası.
-- **Türkmensahra (İran):** Boy yapısının saf haliyle korunduğu saha.
-- **Irak Türkmeneli (Kerkük, Erbil, Musul):** Mezopotamya'daki kadim kaleler.
+Türkmen kültürü, yaşanmışlıklardan süzülen bir "hikmet" medeniyetidir. Burada şair sadece bir sanatçı değil, halkın dertlerine derman olan bir "pir"dir.
+
+### 🖋️ Mahtumkulu Firaki: Birlik ve Dirlik
+Türkmen boylarını tek bir yumruk olmaya çağıran o ölümsüz ses:
+
+> *"Gönüller, yürekler bir olup çıksa,*
+> *Toprak sarsılır, düşman kaçar Türkmen’den.*
+> *Bir sofrada hazır kılınsa aşlar,*
+> *Yaver gider şansı yüce Türkmen'in."*
+
+### 🖋️ Molla Nefes: Aşkın Sultanı
+Gönül kapılarını aşk ile açan, Türkmen lirizminin zirvesi:
+
+> *"Dedim: Ey lale-i ruhsar, cemalin taze gülşendir,*
+> *Dedi: Bahar-ı ömrümde bu gülşen taze rüşendir.*
+> *Dedim: Bu derd-i hicranın gönülde ateşi vardır,*
+> *Dedi: Yanmak bu aşkın şanında her dem bir gülşendir."*
+
+### 🖋️ Seyyid Nesimi: Hakikat Yolu
+Bozkırın ortasında "insan-ı kamil" arayışının en gür sesi:
+
+> *"Bende sığar iki cihan, ben bu cihana sığmazam,*
+> *Cevher-i lâmekan benim, kevnü mekâna sığmazam."*
+
+---
+
+## 📜 Korkut Ata'dan (Dede Korkut) Hikmetler
+Efsanelerimizin ve ahlakımızın manevi babası Gorkut Ata der ki:
+
+- **"Ecel gelmeyince kimse ölmez, ölen de geri gelmez."**
+- **"Gönül yüksekte olmazsa, menzil yakına gelmez."**
+- **"Eski pamuk bez olmaz, eski düşman dost olmaz."**
+
+---
+
+## 🎶 Kerkük Horyatları: Yanık Bir Feryat
+Irak Türkmeneli'nin, acıyı ve hasreti söze döktüğü o cinaslı haykırışlar:
+
+> *"Kerkük'ün kalesi var,*
+> *İçinde lalesi var.*
+> *Herkesin bir yari var,*
+> *Benim ne çilem var."*
 
 ---
 
 ## 🐎 Bozkırın Kanatları: Ahalteke Atı
 Türkmen medeniyeti, at sırtında kurulmuş bir "hareket medeniyeti"dir. **Ahalteke** atı, sadece bir binek değil, Türkmen'in sadık dostu ve özgürlük tutkusunun simgesidir. 
-
----
-
-## 📜 Folklor ve Sözlü Gelenek
-Oğuz Kağan Destanı'ndan Dede Korkut hikayelerine, Kerkük Horyatlarından bozkır atasözlerine kadar uzanan devasa bir sözlü kütüphane.
 
 ---
 
@@ -65,13 +100,22 @@ Arşivimizdeki tüm bilgiler, aşağıdaki temel akademik kaynaklar ve primer be
 3. **Z.V. Togan**, *"Türkistan Tarihi"*, İstanbul.
 4. **V.V. Barthold**, *"Türkmen Halkının Tarihi"*.
 5. **C.H. Wood**, *"The Jewelry of Turkmenistan"*, 2003.
-6. **Türkmenistan İlimler Akademisi**, *Elyazmaları Enstitüsü Arşivleri*.
 
 ---
 
 ## 🔬 Araştırma Metodolojisi
 
-**Atlas-i Turkmen**, bir hobi projesi değil, bir dijital beşeri bilimler (Digital Humanities) girişimidir.
+**Atlas-i Turkmen**, bir hobi projesi değil, bir dijital beşeri bilimler (Digital Humanities) girişimidir. Disiplinlerarası yaklaşım (tarih, etnoloji, müzikoloji) ile kolektif hafızayı inşa ediyoruz.
+
+---
+
+## 🤝 Katkı Sağlama
+
+Bu külliyat, kolektif bir iradenin eseridir. Akademik çalışmalarınızı, saha araştırmalarınızı veya aile arşivlerinizdeki belgeleri dijitalleştirerek bu hafızaya katkıda bulunabilirsiniz.
+
+1. Depoyu **Fork**'layın.
+2. Yeni çalışmanızı ilgili dizine ekleyin (Akademik format ve kaynakça zorunluluğu vardır).
+3. **Pull Request** göndererek külliyatın genişlemesine ortak olun.
 
 ---
 
@@ -81,20 +125,6 @@ Arşivimizdeki tüm bilgiler, aşağıdaki temel akademik kaynaklar ve primer be
 
 ## ⚖️ Lisans ve Telif
 
-Bu arşivdeki içerikler kamu yararına sunulmuştur. Akademik alıntılarda atıf yapılması zorunludur.
-
-© 2026 | Atlas-i Turkmen Projesi
-luluğu vardır).
-3. **Pull Request** göndererek külliyatın genişlemesine ortak olun.
-
----
-
-> *"Dili bir, özü bir, sözü bir bir dünya için; Atlas-i Turkmen ile geçmişin izini, geleceğin ufuna taşıyoruz."*
-
----
-
-## ⚖️ Lisans
-
-Bu arşivdeki içerikler, kültürel bir mirasın korunması adına kamu yararına sunulmuştur. Alıntılarda **Atlas-i Turkmen** projesine atıfta bulunulması akademik bir gerekliliktir.
+Bu arşivdeki içerikler kamu yararına sunulmuştur. Akademik alıntılarda **Atlas-i Turkmen** projesine atıfta bulunulması bir gerekliliktir.
 
 © 2026 | Atlas-i Turkmen Projesi

@@ -133,6 +133,36 @@ Horyat; düğünlerden yaslara, meclislerden yalnızlıklara kadar Kerkük’ün
 
 ---
 
+## 🎨 Halıdaki Dil: Tamgalar ve Dokunmuş Hafıza
+
+Türkmen halısı, sadece bir yer yaygısı değil; boyların şeceresini, tarihini ve dünya görüşünü ilmek ilmek işlediği bir **"dokunmuş gazetedir"**. Her ilmik bir söz, her motif bir hafıza kaydıdır.
+
+- **Gül (Göl) Sembolizmi:** Halının merkezinde yer alan sekizgen "Gül" motifleri, o halıyı dokuyan boyun (Tekke, Yomut, Ersarı, Salur vb.) mührüdür. Bu motifler, gökyüzündeki yıldızların yeryüzündeki yansıması ve boyun ebedi varlık iddiasıdır.
+- **Renklerin Ontolojisi:** Hakim olan "Türkmen Kırmızısı", toprağın bereketini, kanın kutsiyetini ve yaşamın sürekliliğini simgeler. Kırmızının tonları, boyların coğrafi ve sosyal konumuna göre farklılık gösterir.
+- **Hayat Ağacı ve Koruma:** Kenar süslemelerinde kullanılan "Koçboynuzu" ve "Hayat Ağacı" motifleri; gücü, bereketi ve kem gözlerden korunmayı temsil eden kadim piktogramlardır.
+
+---
+
+## 🛡️ Gümüşün Sessiz Dili: Takılar ve Koruma
+
+Türkmen kadınlarının taşıdığı gümüş takılar, sadece birer süs eşyası değil; aynı zamanda birer zırh, tılsım ve sosyal statü göstergesidir. Gümüş, Türkmen inancında kötülüğü defeden ve ruhu arındıran kutsal bir metaldir.
+
+- **Gulyaka ve Şeytan-kava:** Göğüs üzerine takılan devasa dairesel plakalar (Gulyaka), hem kalbi koruyan bir kalkan hem de güneşin bereketini simgeleyen bir estetik zirvedir.
+- **Akik ve Firuze:** Gümüşün üzerine işlenen akik taşları, "toprağın kanı" olarak kabul edilir ve taşıyana enerji ve koruma sağladığına inanılır.
+- **Ses ve Ritim:** Takıların üzerindeki küçük zillerin (şal-şal) çıkardığı ses, kötü ruhları uzaklaştıran ve hayatın ritmini duyuran manevi bir frekanstır.
+
+---
+
+## ⛺ Kozmik Mimari: Türkmen Ak Öyü (Yurt)
+
+Türkmen'in evi olan **Ak Öy**, göçebe hayat tarzının pratik bir çözümü olmanın ötesinde, evrenin (makrokozmos) insan ölçeğindeki bir minyatürüdür (mikrokozmos).
+
+- **Tündük (Kubbe):** Çadırın tepesindeki dairesel pencere, gökyüzüne açılan kapıdır. Güneş ışığının girdiği ve dumanın çıktığı bu nokta, gök ile yer arasındaki manevi bağı simgeler.
+- **Hiyerarşik Düzen:** Ak Öy’ün içi, toplumsal düzenin kristalize olmuş halidir. Baş köşe (Tör) en saygın misafirler ve aksakallar içindir; doğu ve batı kanatları ise ailenin iç dengesini yansıtan kesin kurallarla bölünmüştür.
+- **Taşınabilir Medeniyet:** Kolayca sökülüp kurulabilen bu yapı, Türkmen'in "mülkiyete değil, hürriyete" odaklanan varoluş biçiminin en somut mimari ifadesidir.
+
+---
+
 ---
 
 ![History Banner](history_banner.png)
